@@ -1,5 +1,4 @@
 ### Hi there 👋
-![Profile Pic](https://github.com/maheshshelke/maheshshelke/assets/4871962/bf4ede0d-87c4-4700-9e6f-850b724dfaf9)
 
 <!--
 **maheshshelke/maheshshelke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
